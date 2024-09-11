@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <link rel="shortcut icon" href="image/favicon.ico" type="image/x-icon">
+    <title>Projetos</title>
+</head>
+<body>
+    <h1>Portfólio:</h1>
+    <h2>Esses são alguns artigos que ja criei:</h2>
+
+    <div class="projeto1">
+        <p>Aqui um artigo bem resumido a respeito dos beneficios dos jogos para o ser humano!</p>
+        <img src="image/image 1.png" alt="imagem do projeto1"> 
+    </div>
+    <div class="projeto2">
+        <p>Neste outro artigo, descrevi um pouco sobre o mundo gamer!</p>
+        <img src="image/image 2.png" alt="imagem projeto 2">
+    </div>
+    
+</body>
+</html>
