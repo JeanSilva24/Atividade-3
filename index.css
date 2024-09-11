@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    color: antiquewhite; 
+    font-family: Arial, Helvetica, sans-serif;   
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a { color: antiquewhite;
+text-decoration: none;}
+
+header img {
+    width: 120px;
+    height: 120px;
+    
+}
+.center{
+    text-align: center;
+}
+footer img {
+    width: 20px;
+    height: 20px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+}
+.container {
+    padding: 0px 50px;
+}
+h1 {
+    text-align: center;
+
+}
+h2 {
+    text-align: center;
+}
+nav a:hover{
+    color: brown;
+}
+.projeto1 img{
+    width: 500px;
+}
+.projeto1 {
+    text-align: center;
+}
+
+.projeto2 img{
+    width: 500px;
+}
+.projeto2 {
+    text-align: center;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
