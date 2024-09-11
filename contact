@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="image/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="index.css">
+    <title>Contato</title>
+</head>
+<body>
+    <h1>Entre em contato:</h1>
+   <section class="form">
+    
+    <div class="formulario">
+        <form action="https://formspree.io/f/index.html" method="POST">
+        <div class="preencher"><input type="text" name="nome" placeholder="Seu nome" required><br></div>
+        <div class="preencher"><input type="email" name="email" placeholder="Seu Email" required><br></div>
+        <div class="preencher"><textarea name="mensagem" placeholder="Sua mensagem aqui" required></textarea><br></div>
+        <button type="submit">Enviar</button>
+    </form>
+    </div>
+   </section>
+    
+</body>
+
+</html>
